@@ -1,0 +1,3 @@
+/*  */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['59253610'] = {"default_language":"en","languages":["nl","en","fr","de","id","it","ja","ko","no","pt","ro","ru","es","sv","tr","uk"],"url_structure":"sub_directory","native_language_names":1,"flag_style":"2d","flag_size":24,"wrapper_selector":"#gt-wrapper-59253610","alt_flags":{"en":"usa","pt":"brazil","es":"mexico"},"custom_domains":{"id":"www.y9gamegratis.com"},"horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+/*  */
